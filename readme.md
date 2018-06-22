@@ -5,7 +5,7 @@ Thank you for your interest in working at xxx! This assessment will help us unde
 ## Instructions
 
 * Use Python for all coding problems.
-* Written answers should be provided in a new text document; code should be in files named <yourfirstname><yourlastname>_question<question number>.<py/ipynb>. Example: "janesmith_qustion2.py".
+* Written answers should be provided in a new text document; code should be in files named `<yourfirstname><yourlastname>_question<question number>.<py/ipynb>`. Example: "janesmith_qustion2.py".
 * Please work independently. Web searches are fine, but don’t share work with other people.
 
 ## Question 1: Modeling
@@ -33,7 +33,7 @@ Recommended time: 1 hour
 
 Nothing works right the first time. At xxx, software writing and model building is a collaborative effort. Before anything goes into production, it will be reviewed by at least one other team member. In this problem, we've provided a piece of code which almost, but not quite, works. Read through the provided code and figure out what it's supposed to do. Fix or rewrite it so that the tests pass. Your fixed version of the broken function should be something that you'd be willing to put into the company code base for long-term use.
 
-The failing code is in a file `failing_code.py` in the folder _code_ . Modify the code so that it works (feel free to completely rewrite the function if you like) and add documentation so that future data scientists can use and maintain it. Save your new function (with the original tests) as <yourfirstname><yourlastname>_question2.<py/ipynb> and return it with your other materials.
+The failing code is in a file `failing_code.py` in the folder _code_ . Modify the code so that it works (feel free to completely rewrite the function if you like) and add documentation so that future data scientists can use and maintain it. Save your new function (with the original tests) as `<yourfirstname><yourlastname>_question2.<py/ipynb>` and return it with your other materials.
 
 Make sure that your documentation explains the purpose of the function.
 * Your modified function should take the same inputs as the original function: a 2D array and a list of integers.
