@@ -1,16 +1,14 @@
-Data Science Research & Development Assessment
+# Data Science Research & Development Assessment
 
 Thank you for your interest in working at xxx! This assessment will help us understand aspects of your skills as a data scientist which are more difficult to understand in a standard in-person interview. We expect that you should be able to complete the assessment in around 4 hours.
 
-Instructions
-======
+## Instructions
 
 * Use Python for all coding problems.
 * Written answers should be provided in a new text document; code should be in files named <yourfirstname><yourlastname>_question<question number>.<py/ipynb>. Example: "janesmith_qustion2.py".
 * Please work independently. Web searches are fine, but don’t share work with other people.
 
-Question 1: Modeling
-======
+## Question 1: Modeling
 
 Recommended time: 3 hours
 
@@ -29,8 +27,8 @@ C. Validation: How well is each model performing? Which is better?
 
 Don't worry about micro-optimizations of your model at this point. We're interested in large-scale differences (if any) produced by different modeling choices.
 
-Question 2: Coding
-======
+## Question 2: Coding
+
 Recommended time: 1 hour
 
 Nothing works right the first time. At xxx, software writing and model building is a collaborative effort. Before anything goes into production, it will be reviewed by at least one other team member. In this problem, we've provided a piece of code which almost, but not quite, works. Read through the provided code and figure out what it's supposed to do. Fix or rewrite it so that the tests pass. Your fixed version of the broken function should be something that you'd be willing to put into the company code base for long-term use.
