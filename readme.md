@@ -21,9 +21,9 @@ In the _data_ folder, find a CSV, `graduates.csv`, of [synthetic] data on studen
 Your response should be a combination of code and a written document -- treat this as a quick exploration of different modeling approaches which you'll then share with your colleagues. If you work in a notebook-style environment such as Jupyter, include the explanatory text in the notebook. Otherwise, write explanatory text in the document, and code in a separate .py file. You may use any available open-source software package(s) you find helpful.
 
 Structure your document in three sections:
-A. Pre-Processing: What (if anything) have you done to prepare or clean the data before using it to train your model?
-B. Model Building: Use the data to predict the probability that a student will successfully graduate. Also please elaborate why you choose a certain model and what are the pros and cons of the chosen model. 
-C. Validation: How well is each model performing? Which is better?
+1. Pre-Processing: What (if anything) have you done to prepare or clean the data before using it to train your model?
+2. Model Building: Use the data to predict the probability that a student will successfully graduate. Also please elaborate why you choose a certain model and what are the pros and cons of the chosen model. 
+3. Validation: How well is each model performing? Which is better?
 
 Don't worry about micro-optimizations of your model at this point. We're interested in large-scale differences (if any) produced by different modeling choices.
 

@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class Expander(object):
     def __init__(self, aa):
         self.aa = aa
@@ -9,6 +10,8 @@ class Expander(object):
             cc[ii,self.aa.index(bb[ii])]=1
             
         return np.asarray(cc)
+
+    
 def do_work(data, places=[]):
     if places == []:
         places = range(data.shape[1])
